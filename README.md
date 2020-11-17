@@ -21,7 +21,7 @@
 *Add more general information about the project. What the purpose of the project is?*
 
 ## Screenshots
-![Example screenshot](*Add one (or a few) screenshot(s) representative(s) of the project.*) 
+![*Add alternative text to the screenshot*](*Add one (or a few) screenshot(s) representative(s) of the project.*) 
 
 ## Technologies
 *List the technologies used and their versions.*

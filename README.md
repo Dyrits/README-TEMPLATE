@@ -14,6 +14,7 @@
   - [To-do](#to-do)
  - [Contributing](#contributing)
 - [Related content](#related-content)
+- [Licence](#licence)
 - [Contact](#contact)
 
 ## General informations
@@ -60,6 +61,9 @@ Please make sure to update tests as appropriate (if any).
 
 ## Related content
 *Add more information about any related content. Is the project part of a course or a training?*
+
+## Licence
+*Add details about the licence, if any.*
 
 ## Contact
 Created by [*Add the name(s) of the author(s).*](*Add URL to the website(s) or GitHub of the author(s).*).

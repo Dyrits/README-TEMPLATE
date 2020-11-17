@@ -22,6 +22,7 @@
 
 ## Screenshots
 *Add one (or a few) screenshot(s) representative(s) of the project.*
+
 ![*Add alternative text to the screenshot*](*Add URL of the screenshot.*) 
 
 ## Technologies

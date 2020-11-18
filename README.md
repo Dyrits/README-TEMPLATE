@@ -2,7 +2,8 @@
 *Add a short description of the project.*
 
 ## Table of contents
-- [General info](#general-informations)
+- [Related content](#related-content)
+- [General information](#general-information)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Installation](#installation)
@@ -13,11 +14,13 @@
   - [Changelog](#changelog)
   - [To-do](#to-do)
  - [Contributing](#contributing)
-- [Related content](#related-content)
 - [Licence](#licence)
 - [Contact](#contact)
 
-## General informations
+## Related content
+*Add more information about any related content. Is the project part of a course or a training?*
+
+## General information
 *Add more general information about the project. What the purpose of the project is?*
 
 ## Screenshots
@@ -60,9 +63,6 @@
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate (if any).
-
-## Related content
-*Add more information about any related content. Is the project part of a course or a training?*
 
 ## Licence
 *Add details about the licence, if any.*

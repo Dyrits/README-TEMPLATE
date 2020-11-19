@@ -13,7 +13,7 @@
   - [Issues](#issues)
   - [Changelog](#changelog)
   - [To-do](#to-do)
- - [Contributing](#contributing)
+- [Contributing](#contributing)
 - [Licence](#licence)
 - [Contact](#contact)
 

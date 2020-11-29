@@ -28,7 +28,7 @@
 
 ![*Add alternative text to the screenshot*](*Add URL of the screenshot.*) 
 
-## Technologies
+## Technologies and tools
 *List the technologies used and their versions.*
 
 ## Installation

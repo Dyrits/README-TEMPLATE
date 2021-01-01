@@ -5,7 +5,7 @@
 - [Related content](#related-content)
 - [General information](#general-information)
 - [Screenshots](#screenshots)
-- [Technologies](#technologies)
+- [Technologies](#technologies-and-tools)
 - [Installation](#installation)
 - [Demonstration](#demonstration)
 - [Status](#status)

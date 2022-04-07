@@ -66,6 +66,8 @@ Please make sure to update tests as appropriate (if any).
 
 ## Licence
 *Add details about the licence, if any.*
+### Badge
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ## Contact
 Created by [*Add the name(s) of the author(s).*](*Add URL to the website(s) or GitHub of the author(s).*).

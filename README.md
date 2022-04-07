@@ -66,7 +66,7 @@ Please make sure to update tests as appropriate (if any).
 
 ## Licence
 *Add details about the licence, if any.*
-Example:
+  
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 ## Contact

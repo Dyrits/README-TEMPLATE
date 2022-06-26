@@ -1,9 +1,8 @@
 # [*Add the title*](*Add main URL of the project website.*) 
-*Add a short description of the project.*
+*Add a short description and general information about the project.*
 
 ## Table of contents
 - [Related content](#related-content)
-- [General information](#general-information)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies-and-tools)
 - [Installation](#installation)
@@ -19,9 +18,6 @@
 
 ## Related content
 *Add more information about any related content. Is the project part of a course or a training?*
-
-## General information
-*Add more general information about the project. What the purpose of the project is?*
 
 ## Screenshots
 *Add one (or a few) screenshot(s) representative(s) of the project.*
